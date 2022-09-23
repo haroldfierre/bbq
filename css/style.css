@@ -74,7 +74,7 @@ body {
 }
 
 .side .menu .active {
-	border-bottom: 3px solid #fd5068;
+	border-bottom: 3px solid #E4D00A;
 	padding-bottom: 2px;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .side .messages:hover {
 	box-shadow: 0 0 15px 0 rgba(43, 78, 78, 0.1);
-	border-right: 5px solid #fd5068;
+	border-right: 5px solid #E4D00A;
 }
 
 .container .card {
